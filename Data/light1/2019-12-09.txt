@@ -1,0 +1,120 @@
+*
+Time: 10:27:44.721774        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:28:01.622111        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:28:03.221862        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:28:04.456367        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:28:13.561884        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:28:14.781543        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:28:15.984654        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:28:17.258040        
+Light on:                               GREEN
+Waiting vehicles =                      15
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:31:46.837290        
+Light on:                               GREEN
+Waiting vehicles =                      5
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:32:12.112368        
+Light on:                               GREEN
+Waiting vehicles =                      5
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:32:37.444169        
+Light on:                               GREEN
+Waiting vehicles =                      5
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:32:57.047948        
+Light on:                               GREEN
+Waiting vehicles =                      5
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:33:34.585925        
+Light on:                               GREEN
+Waiting vehicles =                      5
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:35:21.946810        
+Light on:                               GREEN
+Waiting vehicles =                      5
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
+*
+Time: 10:36:02.370673        
+Light on:                               GREEN
+Waiting vehicles =                      5
+Number of two wheelers passed:          0 
+Number of four wheelers passed:         0   
+Duration of operation:                  500 second(s)
+#
